@@ -1,0 +1,17 @@
+.cursive {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.numbered {
+    background-color: pink;
+    color: green;
+}
+
