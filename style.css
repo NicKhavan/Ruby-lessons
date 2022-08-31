@@ -1,0 +1,50 @@
+.composition {
+    position: relative;
+    height: 400px;
+    width: 600px;
+    background-image: url(img/bg.jpg);
+}
+
+.asteroid {
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+
+.planet-1 {
+    position: absolute;
+    left: 200px;
+    top: 15px;
+}
+
+.planet-2 {
+    position: absolute;
+    left: 80px;
+    top: 70px;
+}
+
+.planet-3 {
+    position: absolute;
+    bottom: 20px;
+    left: 150PX;
+    z-index: 1;
+}
+
+.spaceship {
+    position: absolute;
+    top: 140px;
+    left: 160PX;
+}
+
+.ufo {
+    position: absolute;
+    bottom: 50px;
+    left: 120PX;
+    z-index: 1;
+}
+
+.superman {
+    position: absolute;
+    right: 50px;
+    bottom: 0px;
+}
